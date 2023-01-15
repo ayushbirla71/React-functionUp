@@ -1,0 +1,27 @@
+.Header{
+text-align: end;
+}
+.Heade_css{
+    font-size: 4vmin;
+  align-items: flex-end;
+    text-align: center;
+    background-color: blue;
+    height: 7vmin;
+    border: solid white;
+    text-decoration: double;
+    color: antiquewhite;
+}
+/* Style buttons */
+.btn {
+  background-color: DodgerBlue; /* Blue background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 12px 16px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
